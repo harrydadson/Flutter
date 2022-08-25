@@ -1,0 +1,15 @@
+{
+    "tabnine.disableFileRegex": [
+    
+    ],
+    "editor.fontWeight": "normal",
+    "editor.guides.indentation": true,
+    "emulator.emulatorPathMac": "~/Library/Android/sdk/emulator",
+    "dart.lineLength": 120,
+    "[dart": {
+        "editor.rulers": [
+            120
+        ],
+    },
+    "dart.flutterCreateOrganization": null,    
+}
